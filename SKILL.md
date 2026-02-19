@@ -3,8 +3,9 @@ name: benign-violation-check
 description: Evaluate comedic content using the benign violation framework to determine whether humor is playful or harmful.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.3463
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - benign-violation-check
 - comedy
